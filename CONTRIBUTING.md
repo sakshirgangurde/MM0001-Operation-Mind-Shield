@@ -67,4 +67,4 @@ To submit your code for the mission, follow this process:
 
 ## Need Help?
 
-If you have any questions or need assistance, feel free to open a discussion in the [Discussions tab] or contact the maintainers directly on the SDS paltform. We’re here to help!
+If you have any questions or need assistance, feel free to open a discussion in the Discussions tab https://github.com/SuperDataScience-Community-Missions/MM0001-Operation-Mind-Shield/discussions or contact the maintainers directly on the SDS paltform. We’re here to help!
