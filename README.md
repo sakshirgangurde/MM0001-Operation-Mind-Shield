@@ -1,4 +1,4 @@
-# 🧠 Operation Mind Shield: Alzheimer's Disease Patient Data Mission
+# 🧠 Operation Mind Shield: Decoding Alzheimer's
 
 Welcome to **Operation Mind Shield**, data science challenge initiated by SuperDataScience focused on predicting Alzheimer's Disease based on patient data. This mission is designed for data scientists of all skill levels, with three different **Assignments** tailored to your expertise. Dive into the dataset, tackle the assignment that best matches your skills, and contribute to this collaborative project.
 
