@@ -53,7 +53,7 @@ markdown_about_msg = """
     
 ############ SIDEBAR introduction to project ##########################
 with st.sidebar:
-    st.image('image/alzheimer_image.jpg')
+    st.image(os.path.join(os.path.dirname(__file__), 'image', 'alzheimer_image.jpg'))
     st.markdown(markdown_about_msg)
 
 col1,col2 = st.columns(2,gap="medium")
