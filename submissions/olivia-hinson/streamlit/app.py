@@ -47,8 +47,13 @@ markdown_about_msg = """
         It lets you play around with key parameters to distinguish between patients with and without Alzheimer's. Currently the app
         is using a model data set (source below)
         
-        Data source :  KAGGLE : [link](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset) to the data set 
+        Data source :  KAGGLE : [link](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset) to the data set
 
+        Field meanings: 
+          - MMSE: Mini-Mental State Examination score, ranging from 0 to 30. Lower scores indicate cognitive impairment.
+          - ADL: Activities of Daily Living score, ranging from 0 to 10. Lower scores indicate greater impairment.
+          - Functional Assessment: Functional assessment score, ranging from 0 to 10. Lower scores indicate greater impairment.
+        
     """
     
 ############ SIDEBAR introduction to project ##########################
