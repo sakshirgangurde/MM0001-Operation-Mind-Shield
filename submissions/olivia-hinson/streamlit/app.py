@@ -50,9 +50,9 @@ markdown_about_msg = """
         Data source :  KAGGLE : [link](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset) to the data set
 
         Field meanings: 
-          - MMSE: Mini-Mental State Examination score, ranging from 0 to 30. Lower scores indicate cognitive impairment.
-          - ADL: Activities of Daily Living score, ranging from 0 to 10. Lower scores indicate greater impairment.
-          - Functional Assessment: Functional assessment score, ranging from 0 to 10. Lower scores indicate greater impairment.
+          - :blue[MMSE]: Mini-Mental State Examination score, ranging from 0 to 30. Lower scores indicate cognitive impairment.
+          - :blue[ADL]: Activities of Daily Living score, ranging from 0 to 10. Lower scores indicate greater impairment.
+          - :blue[Functional Assessment]: Functional assessment score, ranging from 0 to 10. Lower scores indicate greater impairment.
         
     """
     
